@@ -87,7 +87,7 @@ const studentsAge = [35, 25, 27, 40, 21, 36, 19, 20];
 
 for (let i = 0; i < studentsAge.length; i++) {
   if (studentsAge[i] > 20) {
-    console.log(studentsAge);
+    console.log(studentsAge[i]);
   }
 }
 ```
